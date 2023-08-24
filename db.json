@@ -1,16 +1,19 @@
 {
-    "books": [
-      {
-        "id": 1,
-        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-        "book_name": "Harry Potter and the Philosopher's Stone",
-        "author": "J. K. Rowling",
-        "genre": "fiction",
-        "edition": "2021",
-        "publisher": "Bloomsbury",
-        "cost": 1299,
-        "borrowed": false
-      }
-    ]
-  }
+  "posts": [
+    {
+      "id": 1,
+      "name": "Мама",
+      "email": "Stfsdf34@gmail.com",
+      "number": "+99854402329",
+      "tag": "Семья"
+    },
+    {
+      "id": 2,
+      "name": "Отец",
+      "email": "StsfdUlg08@gmail.com",
+      "number": "+9983360007",
+      "tag": "Семья"
+    }
+  ]
+}
   
